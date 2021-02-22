@@ -15,3 +15,25 @@ BetterHelp Mobile Applications (Android)
 13.52.170.51		
 13.52.52.137		
 betterhelp.co.il
+
+
+
+13.52.170.51
+13.52.52.137
+
+Focus Areas:
+
+Exposed customer personal information - Privacy is very important to us, especially the privacy of our users. We are extremely interested in any vulnerabilities that expose our users PII.
+
+
+
+
+
+Out of Scope:
+
+We're working on updating the sign-up process here at BetterHelp and as such any rate-limiting, captcha issues in the sign-up flow are Out of Scope for now.
+
+We are also not accepting rate-limiting bugs that do not directly lead to account takeover
+
+telehelpforstudents.com		
+telehelp4students.com
